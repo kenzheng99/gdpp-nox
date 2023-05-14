@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MovableObject
+  - Boss
+  - Mouse
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Platforms
+  - InvisibleBarriers
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2759814565
+    locked: 0
+  - name: Background Objects
+    uniqueID: 2877852557
+    locked: 0
+  - name: Platforms
+    uniqueID: 421331501
+    locked: 0
+  - name: Boss
+    uniqueID: 3216391855
+    locked: 0
+  - name: Overlay
+    uniqueID: 3640710203
+    locked: 0
+  - name: Player
+    uniqueID: 2237816509
+    locked: 0
